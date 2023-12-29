@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: antiquewhite;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    font-size: large;
+}
