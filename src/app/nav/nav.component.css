@@ -8,9 +8,13 @@ a{
     padding: 20px;
     text-decoration: none;
     color: black;
-    background-color: aliceblue;
+    background-color: rgb(196, 227, 255);
     border-radius: 20px;
     width: 200px;
     text-align: center;
     font-size: large;
+    transition: all 0.3s linear;
+}
+.activebutton {
+    background-color: rgb(101, 255, 255);
 }

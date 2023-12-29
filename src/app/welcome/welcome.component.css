@@ -5,3 +5,9 @@ section{
 div{
     max-width: 960px;
 }
+img{
+    height: 200px;
+    width: 40%;
+    padding: 15px;
+    border-radius: 50px;
+}
